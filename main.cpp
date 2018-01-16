@@ -9,6 +9,7 @@
 #include "default.h" //setup your defaults for local servers
 
 
+
 // WIFI parameters
 const char* SSID = MY_WIFI_SSID;  // Use your wifi SSID
 const char* PASSWORD = MY_WIFI_PASSWORD; // Use your WIFI password
